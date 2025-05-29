@@ -1,0 +1,5 @@
+streamlit
+pandas
+openpyxl
+yfinance # Lo dejaremos por si hay algún fallback o por si quieres usarlo para tipos de cambio fiat-fiat
+requests # Para CoinGecko
